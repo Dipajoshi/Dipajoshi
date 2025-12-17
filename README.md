@@ -1,27 +1,139 @@
-<h1 align="center">Hi 👋, I'm Dipa Joshi.</h1>
-<h3 align="center">A Computer Engineering Student.</h3>
+<!-- Profile Metrics with Modern Badges -->
+<div align="center" style="margin: 15px 0;">
+  <img src="https://komarev.com/ghpvc/?username=Dipajoshi&label=PROFILE+VIEWS&color=0D8ABC&style=for-the-badge&labelColor=0D1117" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Dipajoshi?logo=github&style=for-the-badge&color=1DA1F2&labelColor=0D1117" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/Dipajoshi?logo=github&style=for-the-badge&color=FFD700&labelColor=0D1117" alt="GitHub stars"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipajoshi&label=Profile%20views&color=0e75b6&style=flat" alt="dipajoshi" /> </p>
+<!-- Gradient Divider -->
+<div align="center" style="height: 3px; background: linear-gradient(90deg, #4F46E5, #EC4899); margin: 25px 0; border-radius: 3px;"></div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipajoshi" alt="dipajoshi" /></a> </p>
+<!-- Main Title -->
+<h1 align="center" style="font-size: 2.5rem; margin: 0; background: linear-gradient(90deg, #4F46E5, #EC4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  Hi 👋, I'm Dipa Joshi
+</h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center" style="margin-bottom: 20px;">
+  Frontend Developer | React.js | UI/UX Enthusiast
+</h3>
 
-- 🔭 I’m currently working on **minor project.**
+<!-- Typing Animation -->
+<div align="center" style="margin: 20px 0; padding: 15px; background: rgba(16, 24, 39, 0.5); border-radius: 12px; max-width: 800px; margin-left: auto; margin-right: auto;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Building+beautiful+user+interfaces;Frontend+Development+with+React;Responsive+Web+Design;UI%2FUX+Focused+Development" alt="typing animation"/>
+</div>
 
-- 🌱 I’m currently learning **Web Development**
+<!-- Section Divider -->
+<div align="center" style="height: 3px; background: linear-gradient(90deg, #4F46E5, #EC4899); margin: 25px 0; border-radius: 3px;"></div>
 
-- 📫 How to reach me **joshideepa988@gmail.com**
+## 🌟 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="center">
+<table>
+<tr>
+
+<!-- Moodomic -->
+<td width="33%" align="center">
+<a href="https://youtu.be/Zyj87kJm3no">
+<img src="https://img.youtube.com/vi/Zyj87kJm3no/hqdefault.jpg" width="90%" alt="Moodomic Demo"/>
+</a>
+<br><strong>Moodomic</strong>
+<p>
+Mental health web application with mood tracking & chat features  
+<br><em>(Frontend Development)</em>
+<br><em>React.js · Tailwind CSS</em>
+<br>🎬 <a href="https://youtu.be/Zyj87kJm3no">Watch Demo</a>
+<br>💻 <a href="https://github.com/The-Win-Direction/Moodomic">GitHub Repository</a>
+</p>
+</td>
+
+<!-- KrishiGPT -->
+<td width="33%" align="center">
+<a href="https://www.youtube.com/watch?v=t6rCWoVzcE0">
+<img src="https://img.youtube.com/vi/t6rCWoVzcE0/hqdefault.jpg" width="90%" alt="KrishiGPT Demo"/>
+</a>
+<br><strong>KrishiGPT (KhetTracker)</strong>
+<p>
+AI-based agriculture system with interactive dashboards  
+<br><em>(Frontend Development)</em>
+<br><em>React.js · Tailwind CSS</em>
+<br>🎬 <a href="https://www.youtube.com/watch?v=t6rCWoVzcE0">Watch Demo</a>
+<br>💻 <a href="https://github.com/The-Win-Direction/Project-by-4-Dimension">GitHub Repository</a>
+</p>
+</td>
+
+<!-- Vecrosoft -->
+<td width="33%" align="center">
+<a href="https://youtu.be/g1PswkPB0x8">
+<img src="https://img.youtube.com/vi/g1PswkPB0x8/hqdefault.jpg" width="90%" alt="Vecrosoft Demo"/>
+</a>
+<br><strong>Vecrosoft</strong>
+<p>
+Crop disease detection web platform for farmers  
+<br><em>(Frontend Development)</em>
+<br><em>React.js · CSS</em>
+<br>🎬 <a href="https://youtu.be/g1PswkPB0x8">Watch Demo</a>
+<br>💻 <a href="https://github.com/The-Win-Direction/Vecrosoft">GitHub Repository</a>
+</p>
+</td>
+
+</tr>
+
+<tr>
+
+<!-- Blood Donor -->
+<td width="33%" align="center">
+<strong>Blood Donor Recommendation System</strong>
+<p>
+Emergency blood donor search platform  
+<br><em>(Frontend Development)</em>
+<br><em>React.js · Tailwind CSS</em>
+<br>💻 <a href="https://github.com/Dipajoshi/Blood-Donor-Recommendation-System">GitHub Repository</a>
+</p>
+</td>
+
+</tr>
+</table>
+</div>
+
+---
+
+## 💻 Tech Stack & Tools
+
+### Frontend & UI
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/> HTML5
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/> CSS3
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/> JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/> React.js
+<img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="48" height="48"/> Tailwind CSS
+</div>
+
+### Programming & Tools
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48"/> C
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/> C++
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/> Git
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/> GitHub
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/> Figma
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/> VS Code
+</div>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dipajoshi&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipajoshi&layout=compact&theme=radical" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipajoshi&show_icons=true&locale=en&layout=compact" alt="dipajoshi" /></p>
+## 🤝 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/dipa-joshi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:joshideepa988@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipajoshi&show_icons=true&locale=en" alt="dipajoshi" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipajoshi&" alt="dipajoshi" /></p>
+© 2025 Dipa Joshi
