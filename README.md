@@ -38,7 +38,7 @@
 </a>
 <br><strong>Moodomic</strong>
 <p>
-Mental health web application with mood tracking & chat features  
+Mental health web application with mood tracking & ai features having 3 roles(user, doctor and admin) 
 <br><em>(Frontend Development)</em>
 <br><em>React.js · Tailwind CSS</em>
 <br>🎬 <a href="https://youtu.be/Zyj87kJm3no">Watch Demo</a>
@@ -68,7 +68,7 @@ AI-based agriculture system with interactive dashboards
 </a>
 <br><strong>Vecrosoft</strong>
 <p>
-Crop disease detection web platform for farmers  
+Crop disease detection and knowledge sharing web platform for farmers  
 <br><em>(Frontend Development)</em>
 <br><em>React.js · CSS</em>
 <br>🎬 <a href="https://youtu.be/g1PswkPB0x8">Watch Demo</a>
