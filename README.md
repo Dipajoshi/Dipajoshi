@@ -140,7 +140,7 @@ class DipaJoshi:
 
 <div align="center">
 
-> *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+> *"First, solve the problem. Then, write the code.*" — John Johnson
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:4F46E5,100:0D1B2A&height=120&section=footer"/>
 
