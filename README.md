@@ -23,15 +23,14 @@
 class DipaJoshi:
     def __init__(self):
         self.name      = "Dipa Joshi"
-        self.role      = "Frontend Developer | React.js | UI/UX Enthusiast"
+        self.role      = "Web Developer | Next.js | UI/UX Enthusiast"
         self.location  = "Nepal 🇳🇵"
         self.education = "B.E. Computer Engineering"
 
     @property
     def tech_focus(self):
         return [
-            "⚛️  React.js & Component-Driven Architecture",
-            "🎨  UI/UX Design with Figma",
+            "⚛️  Next.js & Component-Driven Architecture",
             "💅  Tailwind CSS & Responsive Web Design",
             "🌐  Frontend Development (HTML5 · CSS3 · JavaScript)",
             "🔗  REST API Integration & State Management",
@@ -40,8 +39,8 @@ class DipaJoshi:
     @property
     def currently(self):
         return {
-            "learning"  : ["TypeScript", "Next.js", "Advanced React Patterns"],
-            "building"  : ["Mental health platforms", "AI-powered web apps"],
+            "learning"  : ["Next.js", "REST API Development", "SEO & Web Performance"],
+            "building"  : ["Tour & travel website with booking system", "Online tour management platform"],
             "open_to"   : ["Collaborations", "Frontend Projects", "UI/UX Work"]
         }
 
