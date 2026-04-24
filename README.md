@@ -1,139 +1,148 @@
-<!-- Profile Metrics with Modern Badges -->
-<div align="center" style="margin: 15px 0;">
-  <img src="https://komarev.com/ghpvc/?username=Dipajoshi&label=PROFILE+VIEWS&color=0D8ABC&style=for-the-badge&labelColor=0D1117" alt="Profile views"/>
+<div align="center">
+
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:4F46E5,100:EC4899&height=200&section=header&text=Dipa%20Joshi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=18" />
+
+<!-- Profile Metrics -->
+<div style="margin: 15px 0;">
+  <img src="https://komarev.com/ghpvc/?username=Dipajoshi&label=PROFILE+VIEWS&color=4F46E5&style=for-the-badge&labelColor=0D1117" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/Dipajoshi?logo=github&style=for-the-badge&color=1DA1F2&labelColor=0D1117" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/Dipajoshi?logo=github&style=for-the-badge&color=FFD700&labelColor=0D1117" alt="GitHub stars"/>
 </div>
 
-<!-- Gradient Divider -->
-<div align="center" style="height: 3px; background: linear-gradient(90deg, #4F46E5, #EC4899); margin: 25px 0; border-radius: 3px;"></div>
-
-<!-- Main Title -->
-<h1 align="center" style="font-size: 2.5rem; margin: 0; background: linear-gradient(90deg, #4F46E5, #EC4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  Hi 👋, I'm Dipa Joshi
-</h1>
-
-<h3 align="center" style="margin-bottom: 20px;">
-  Frontend Developer | React.js | UI/UX Enthusiast
-</h3>
-
 <!-- Typing Animation -->
-<div align="center" style="margin: 20px 0; padding: 15px; background: rgba(16, 24, 39, 0.5); border-radius: 12px; max-width: 800px; margin-left: auto; margin-right: auto;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Building+beautiful+user+interfaces;Frontend+Development+with+React;Responsive+Web+Design;UI%2FUX+Focused+Development" alt="typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Building+beautiful+user+interfaces+%F0%9F%8E%A8;Frontend+Development+with+React.js+%E2%9A%9B%EF%B8%8F;Responsive+%26+Accessible+Web+Design;UI%2FUX+Focused+Development+%F0%9F%96%8C%EF%B8%8F;Turning+designs+into+reality+%F0%9F%9A%80" alt="Typing SVG"/>
+
 </div>
 
-<!-- Section Divider -->
-<div align="center" style="height: 3px; background: linear-gradient(90deg, #4F46E5, #EC4899); margin: 25px 0; border-radius: 3px;"></div>
+---
+
+## 🧑‍💻 About Me
+
+```python
+class DipaJoshi:
+    def __init__(self):
+        self.name      = "Dipa Joshi"
+        self.role      = "Frontend Developer | React.js | UI/UX Enthusiast"
+        self.location  = "Nepal 🇳🇵"
+        self.education = "B.E. Computer Engineering"
+
+    @property
+    def tech_focus(self):
+        return [
+            "⚛️  React.js & Component-Driven Architecture",
+            "🎨  UI/UX Design with Figma",
+            "💅  Tailwind CSS & Responsive Web Design",
+            "🌐  Frontend Development (HTML5 · CSS3 · JavaScript)",
+            "🔗  REST API Integration & State Management",
+        ]
+
+    @property
+    def currently(self):
+        return {
+            "learning"  : ["TypeScript", "Next.js", "Advanced React Patterns"],
+            "building"  : ["Mental health platforms", "AI-powered web apps"],
+            "open_to"   : ["Collaborations", "Frontend Projects", "UI/UX Work"]
+        }
+
+    def __str__(self):
+        return f"Passionate about crafting beautiful, accessible and user-friendly web experiences 🚀"
+```
+
+---
 
 ## 🌟 Featured Projects
 
 <div align="center">
-<table>
-<tr>
 
-<!-- Moodomic -->
-<td width="33%" align="center">
-<a href="https://youtu.be/Zyj87kJm3no">
-<img src="https://img.youtube.com/vi/Zyj87kJm3no/hqdefault.jpg" width="90%" alt="Moodomic Demo"/>
-</a>
-<br><strong>Moodomic</strong>
-<p>
-Mental health web application with mood tracking & ai features having 3 roles(user, doctor and admin) 
-<br><em>(Frontend Development)</em>
-<br><em>React.js · Tailwind CSS</em>
-<br>🎬 <a href="https://youtu.be/Zyj87kJm3no">Watch Demo</a>
-<br>💻 <a href="https://github.com/The-Win-Direction/Moodomic">GitHub Repository</a>
-</p>
-</td>
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| 🧠 **Moodomic** | Mental health web application with mood tracking & AI features — 3 roles (User, Doctor, Admin) | React.js · Tailwind CSS | [🎬 Demo](https://youtu.be/Zyj87kJm3no) · [💻 Code](https://github.com/The-Win-Direction/Moodomic) |
+| 🌾 **KrishiGPT (KhetTracker)** | AI-based agriculture system with interactive dashboards and real-time crop insights | React.js · Tailwind CSS | [🎬 Demo](https://www.youtube.com/watch?v=t6rCWoVzcE0) · [💻 Code](https://github.com/The-Win-Direction/Project-by-4-Dimension) |
+| 🌿 **Vecrosoft** | Crop disease detection and knowledge-sharing web platform for farmers | React.js · CSS | [🎬 Demo](https://youtu.be/g1PswkPB0x8) · [💻 Code](https://github.com/The-Win-Direction/Vecrosoft) |
+| 🩸 **Blood Donor Recommendation System** | Emergency blood donor search platform connecting patients with donors | React.js · Tailwind CSS | [💻 Code](https://github.com/Dipajoshi/Blood-Donor-Recommendation-System) |
 
-<!-- KrishiGPT -->
-<td width="33%" align="center">
-<a href="https://www.youtube.com/watch?v=t6rCWoVzcE0">
-<img src="https://img.youtube.com/vi/t6rCWoVzcE0/hqdefault.jpg" width="90%" alt="KrishiGPT Demo"/>
-</a>
-<br><strong>KrishiGPT (KhetTracker)</strong>
-<p>
-AI-based agriculture system with interactive dashboards  
-<br><em>(Frontend Development)</em>
-<br><em>React.js · Tailwind CSS</em>
-<br>🎬 <a href="https://www.youtube.com/watch?v=t6rCWoVzcE0">Watch Demo</a>
-<br>💻 <a href="https://github.com/The-Win-Direction/Project-by-4-Dimension">GitHub Repository</a>
-</p>
-</td>
-
-<!-- Vecrosoft -->
-<td width="33%" align="center">
-<a href="https://youtu.be/g1PswkPB0x8">
-<img src="https://img.youtube.com/vi/g1PswkPB0x8/hqdefault.jpg" width="90%" alt="Vecrosoft Demo"/>
-</a>
-<br><strong>Vecrosoft</strong>
-<p>
-Crop disease detection and knowledge sharing web platform for farmers  
-<br><em>(Frontend Development)</em>
-<br><em>React.js · CSS</em>
-<br>🎬 <a href="https://youtu.be/g1PswkPB0x8">Watch Demo</a>
-<br>💻 <a href="https://github.com/The-Win-Direction/Vecrosoft">GitHub Repository</a>
-</p>
-</td>
-
-</tr>
-
-<tr>
-
-<!-- Blood Donor -->
-<td width="33%" align="center">
-<strong>Blood Donor Recommendation System</strong>
-<p>
-Emergency blood donor search platform  
-<br><em>(Frontend Development)</em>
-<br><em>React.js · Tailwind CSS</em>
-<br>💻 <a href="https://github.com/Dipajoshi/Blood-Donor-Recommendation-System">GitHub Repository</a>
-</p>
-</td>
-
-</tr>
-</table>
 </div>
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💻 Tech Stack & Expertise
 
-### Frontend & UI
+### ⚛️ Frontend & UI
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/> HTML5
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/> CSS3
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/> JavaScript
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/> React.js
-<img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="48" height="48"/> Tailwind CSS
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 </div>
 
-### Programming & Tools
+### 🛠️ Programming, Design & Tools
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48"/> C
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/> C++
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/> Git
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/> GitHub
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/> Figma
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/> VS Code
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dipajoshi&show_icons=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipajoshi&layout=compact&theme=radical" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dipajoshi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=EC4899&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipajoshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipajoshi&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F46E5&ring=4F46E5&fire=EC4899&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dipajoshi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F46E5&line=4F46E5&point=EC4899" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dipajoshi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me
-<p align="center">
-<a href="https://www.linkedin.com/in/er-dipa-joshi-548a79233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:joshideepa988@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-dipa-joshi-548a79233/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshideepa988@gmail.com)
+
+</div>
 
 ---
 
-© 2025 Dipa Joshi
+<div align="center">
+
+> *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:4F46E5,100:0D1B2A&height=120&section=footer"/>
+
+</div>
