@@ -45,7 +45,7 @@ class DipaJoshi:
         }
 
     def __str__(self):
-        return f"Passionate about crafting beautiful, accessible and user-friendly web experiences 🚀"
+        return f"Passionate about crafting beautiful, accessible, SEO-friendly web experiences 🚀"
 ```
 
 ---
