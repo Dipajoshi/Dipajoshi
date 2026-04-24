@@ -41,7 +41,7 @@ class DipaJoshi:
         return {
             "learning"  : ["Next.js", "REST API Development", "SEO & Web Performance"],
             "building"  : ["Tour & travel website with booking system", "Online tour management platform"],
-            "open_to"   : ["Collaborations", "Frontend Projects", "UI/UX Work"]
+            "open_to"   : ["Collaborations", "Web Projects", "Freelance Work"]
         }
 
     def __str__(self):
