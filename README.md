@@ -11,7 +11,7 @@
 </div>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Building+beautiful+user+interfaces+%F0%9F%8E%A8;Frontend+Development+with+React.js+%E2%9A%9B%EF%B8%8F;Responsive+%26+Accessible+Web+Design;UI%2FUX+Focused+Development+%F0%9F%96%8C%EF%B8%8F;Turning+designs+into+reality+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Building+beautiful+user+interfaces+%F0%9F%8E%A8;Web+Development+with+Next.js+%E2%9A%9B%EF%B8%8F;Responsive+%26+Accessible+Web+Design;UI%2FUX+Focused+Development+%F0%9F%96%8C%EF%B8%8F;Turning+designs+into+reality+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
 
