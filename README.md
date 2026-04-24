@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:4F46E5,100:EC4899&height=200&section=header&text=Dipa%20Joshi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,50:4F46E5,100:EC4899&height=200&section=header&text=Dipa%20Joshi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Next.js%20%7C%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=18" />
 
 <!-- Profile Metrics -->
 <div style="margin: 15px 0;">
